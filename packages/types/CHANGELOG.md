@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 1.11.4
+
+### Patch Changes
+
+- [#5294](https://github.com/medusajs/medusa/pull/5294) [`378ca1b`](https://github.com/medusajs/medusa/commit/378ca1b36e909a67e39c69ea5ca94ec58a345878) Thanks [@riqwan](https://github.com/riqwan)! - feat(pricing,types,utils): Move calculate pricing query to a repository + rule type validation
+
+- [#5301](https://github.com/medusajs/medusa/pull/5301) [`66413d0`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9) Thanks [@srindom](https://github.com/srindom)! - fix: move create inventory workflow to @medusajs/workflows
+
 ## 1.11.3
 
 ### Patch Changes
