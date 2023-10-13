@@ -1,5 +1,15 @@
 # @medusajs/inventory
 
+## 1.11.1
+
+### Patch Changes
+
+- [#5301](https://github.com/medusajs/medusa/pull/5301) [`66413d0`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9) Thanks [@srindom](https://github.com/srindom)! - fix: move create inventory workflow to @medusajs/workflows
+
+- Updated dependencies [[`378ca1b`](https://github.com/medusajs/medusa/commit/378ca1b36e909a67e39c69ea5ca94ec58a345878), [`b62af61`](https://github.com/medusajs/medusa/commit/b62af612c7baa244075e546c949b89c4589bd2cf), [`66413d0`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9)]:
+  - @medusajs/utils@1.10.4
+  - @medusajs/modules-sdk@1.12.1
+
 ## 1.11.0
 
 ### Minor Changes

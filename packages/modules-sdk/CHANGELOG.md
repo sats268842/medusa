@@ -1,5 +1,15 @@
 # @medusajs/modules-sdk
 
+## 1.12.1
+
+### Patch Changes
+
+- [#5317](https://github.com/medusajs/medusa/pull/5317) [`b62af61`](https://github.com/medusajs/medusa/commit/b62af612c7baa244075e546c949b89c4589bd2cf) Thanks [@riqwan](https://github.com/riqwan)! - feat(link-modules,modules-sdk,pricing): Medusa App Migrations + Core compatible migrations
+
+- Updated dependencies [[`378ca1b`](https://github.com/medusajs/medusa/commit/378ca1b36e909a67e39c69ea5ca94ec58a345878), [`66413d0`](https://github.com/medusajs/medusa/commit/66413d094e916debbdb74b68800c96ca2c9302c9)]:
+  - @medusajs/utils@1.10.4
+  - @medusajs/types@1.11.4
+
 ## 1.12.0
 
 ### Minor Changes

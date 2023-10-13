@@ -1,5 +1,14 @@
 # @medusajs/admin
 
+## 7.1.5
+
+### Patch Changes
+
+- [#5339](https://github.com/medusajs/medusa/pull/5339) [`e04927a`](https://github.com/medusajs/medusa/commit/e04927a3cb0b8159b1f10a377beee705da6eef31) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): minor bugs throughout Price List domain plus improved form validation
+
+- Updated dependencies [[`e04927a`](https://github.com/medusajs/medusa/commit/e04927a3cb0b8159b1f10a377beee705da6eef31)]:
+  - @medusajs/admin-ui@2.1.5
+
 ## 7.1.4
 
 ### Patch Changes
